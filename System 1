@@ -1,0 +1,2 @@
+Source /voc/data/py311-venv/bin/activate python --version
+cd /voc/work/py3/13-exercises-and-project/ls-la
